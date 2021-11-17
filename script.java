@@ -20,3 +20,6 @@ bank of Togo
 central bank of togo
 togo agriculture
 togo 1
+bank of china
+bank of india
+bank of nigeria
