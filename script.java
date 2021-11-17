@@ -4,3 +4,7 @@ lloyds
 nationwide
 santander
 metro
+tsb
+alliance
+bank of ireland
+city bank
