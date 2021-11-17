@@ -13,3 +13,7 @@ gt bank
 union bank
 access bank
 uba bank
+utb
+atlantis
+ecobank
+bank of Togo
