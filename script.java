@@ -17,3 +17,6 @@ utb
 atlantis
 ecobank
 bank of Togo
+central bank of togo
+togo agriculture
+togo 1
