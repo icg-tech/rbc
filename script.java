@@ -23,3 +23,7 @@ togo 1
 bank of china
 bank of india
 bank of nigeria
+bank of indonasia
+bank of abudabi
+bank og sl
+bank of india
