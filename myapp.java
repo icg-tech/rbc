@@ -2,5 +2,6 @@ welcome to bank of america
 how may we help you
 the bank is yours
 you are all welcome
-thanks
+thaniiks
 the banks wants you to do all your banking here
+and we shall all be happy with our customers
